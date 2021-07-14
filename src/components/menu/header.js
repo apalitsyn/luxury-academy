@@ -32,12 +32,12 @@ export default function() {
     // const handleBtnClick = (): void => {
     //   setOpenMenu(!openMenu);
     // };
-    const handleBtnClick1 = (): void => {
-      setOpenMenu1(!openMenu1);
-    };
-    const closeMenu = (): void => {
-      setOpenMenu(false);
-    };
+    // const handleBtnClick1 = (): void => {
+    //   setOpenMenu1(!openMenu1);
+    // };
+    // const closeMenu = (): void => {
+    //   setOpenMenu(false);
+    // };
     const closeMenu1 = (): void => {
       setOpenMenu1(false);
     };
@@ -63,7 +63,7 @@ export default function() {
           header.classList.remove("sticky");
           totop.classList.remove("show");
         } if (window.pageYOffset > sticky) {
-          closeMenu();
+          // closeMenu();
         }
       });
       return () => {
