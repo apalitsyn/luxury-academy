@@ -32,7 +32,7 @@ export default () => (
         </div>
       </section>
 
-      <section className='container-fluid black_more'>
+      <section className='container-fluid black'>
         <div className='row m-10-hor'>
 
           <div className='col-md-5'>
@@ -63,7 +63,7 @@ export default () => (
         </div>
     </section>
 
-    <section className='container-fluid p-0 black'>
+    <section className='container-fluid p-0 black_more'>
         <div className='row'>
 
           <div className="col-md-6 pr-md-0">
