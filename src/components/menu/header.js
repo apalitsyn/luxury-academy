@@ -29,9 +29,9 @@ export default function() {
 
     const [openMenu, setOpenMenu] = React.useState(false);
     const [openMenu1, setOpenMenu1] = React.useState(false);
-    const handleBtnClick = (): void => {
-      setOpenMenu(!openMenu);
-    };
+    // const handleBtnClick = (): void => {
+    //   setOpenMenu(!openMenu);
+    // };
     const handleBtnClick1 = (): void => {
       setOpenMenu1(!openMenu1);
     };
@@ -41,9 +41,9 @@ export default function() {
     const closeMenu1 = (): void => {
       setOpenMenu1(false);
     };
-    const ref = useOnclickOutside(() => {
-      closeMenu();
-    });
+    // const ref = useOnclickOutside(() => {
+    //   closeMenu();
+    // });
     const ref1 = useOnclickOutside(() => {
       closeMenu1();
     });

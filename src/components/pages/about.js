@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from '@reach/router';
-import Testimony from '../components/carouseltestimony';
+// import Testimony from '../components/carouseltestimony';
 import Footer from '../components/footer';
 
 
