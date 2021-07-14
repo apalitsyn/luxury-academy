@@ -27,7 +27,7 @@ const NavLink = props => (
 
 export default function() {
 
-    const [openMenu, setOpenMenu] = React.useState(false);
+    // const [openMenu, setOpenMenu] = React.useState(false);
     const [openMenu1, setOpenMenu1] = React.useState(false);
     // const handleBtnClick = (): void => {
     //   setOpenMenu(!openMenu);
@@ -133,7 +133,7 @@ export default function() {
                         <div className="dropdown-custom dropdown-toggle btn" 
                           onClick={handleBtnClick1}
                           >
-                          Services
+                          What we do
                         </div>
                         {openMenu1 && (
                           <div className='item-dropdown'>
@@ -199,7 +199,7 @@ export default function() {
                       <div ref={ref1}>
                           <div className="dropdown-custom dropdown-toggle btn" 
                              onMouseEnter={handleBtnClick1} onMouseLeave={closeMenu1}>
-                            Services
+                            What we do
                             {openMenu1 && (
                             <div className='item-dropdown'>
                               <div className="dropdown" onClick={closeMenu1}>
