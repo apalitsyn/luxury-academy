@@ -40,9 +40,9 @@ var Globals = __importStar(__webpack_require__(3));
 
 exports.Globals = Globals;
 
-__export(__webpack_require__(57));
+__export(__webpack_require__(56));
 
-__export(__webpack_require__(58));
+__export(__webpack_require__(57));
 
 /***/ }),
 /* 2 */
@@ -70,11 +70,11 @@ var browser = __webpack_require__(25);
 var browser_default = /*#__PURE__*/__webpack_require__.n(browser);
 
 // EXTERNAL MODULE: ./node_modules/create-react-context/lib/index.js
-var lib = __webpack_require__(61);
+var lib = __webpack_require__(60);
 var lib_default = /*#__PURE__*/__webpack_require__.n(lib);
 
 // EXTERNAL MODULE: ./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js
-var react_lifecycles_compat_es = __webpack_require__(62);
+var react_lifecycles_compat_es = __webpack_require__(61);
 
 // CONCATENATED MODULE: ./node_modules/@reach/router/es/lib/utils.js
  ////////////////////////////////////////////////////////////////////////////////
@@ -1472,8 +1472,8 @@ function _createClass(Constructor, protoProps, staticProps) {
 /* harmony import */ var shallowequal__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(shallowequal__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _emotion_stylis__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(65);
 /* harmony import */ var _emotion_unitless__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(66);
-/* harmony import */ var _emotion_is_prop_valid__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(50);
-/* harmony import */ var hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(47);
+/* harmony import */ var _emotion_is_prop_valid__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(49);
+/* harmony import */ var hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(46);
 /* harmony import */ var hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_6__);
 
 
@@ -3476,12 +3476,12 @@ function _inherits(subClass, superClass) {
 /* unused harmony export removeChild */
 /* unused harmony export toPayload */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return withAnimated; });
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(23);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(14);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(11);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(10);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(23);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(14);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(11);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(10);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8);
 /* harmony import */ var _react_spring_shared__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1);
 /* harmony import */ var _react_spring_shared__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(4);
@@ -3516,7 +3516,7 @@ var isAnimated = function isAnimated(val) {
 
 var Animated = /*#__PURE__*/function () {
   function Animated() {
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, Animated);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, Animated);
 
     this[_a] = true;
     this.children = new Set();
@@ -3524,7 +3524,7 @@ var Animated = /*#__PURE__*/function () {
   /** Returns the set of `AnimatedValue` nodes contained by this node. */
 
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(Animated, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(Animated, [{
     key: "getPayload",
     value: function getPayload() {
       return this.payload;
@@ -3556,14 +3556,14 @@ var Animated = /*#__PURE__*/function () {
 _a = animatedTag;
 
 var AnimatedObject = /*#__PURE__*/function (_Animated) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedObject, _Animated);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedObject, _Animated);
 
-  var _super = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedObject);
+  var _super = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedObject);
 
   function AnimatedObject(source) {
     var _this;
 
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedObject);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedObject);
 
     _this = _super.call(this);
     _this.source = source;
@@ -3571,7 +3571,7 @@ var AnimatedObject = /*#__PURE__*/function (_Animated) {
     return _this;
   }
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedObject, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedObject, [{
     key: "getValue",
     value: function getValue(animated) {
       var obj = {};
@@ -3633,12 +3633,12 @@ function removeChild(parent) {
 }
 
 var AnimatedStyle = /*#__PURE__*/function (_AnimatedObject) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedStyle, _AnimatedObject);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedStyle, _AnimatedObject);
 
-  var _super2 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedStyle);
+  var _super2 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedStyle);
 
   function AnimatedStyle(style) {
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedStyle);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedStyle);
 
     if (style === void 0) {
       style = {};
@@ -3653,28 +3653,28 @@ var AnimatedStyle = /*#__PURE__*/function (_AnimatedObject) {
 }(AnimatedObject);
 
 var AnimatedInterpolation = /*#__PURE__*/function (_Animated2) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedInterpolation, _Animated2);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedInterpolation, _Animated2);
 
-  var _super3 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedInterpolation);
+  var _super3 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedInterpolation);
 
   function AnimatedInterpolation(source, args) {
     var _this2;
 
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedInterpolation);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedInterpolation);
 
     _this2 = _super3.call(this);
     _this2.source = source;
-    _this2.calc = _react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["createInterpolator"].apply(void 0, Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(args));
+    _this2.calc = _react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["createInterpolator"].apply(void 0, Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(args));
     return _this2;
   }
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedInterpolation, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedInterpolation, [{
     key: "getValue",
     value: function getValue(animated) {
       var args = _react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["is"].arr(this.source) ? this.source.map(function (node) {
         return node.getValue(animated);
       }) : Object(_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["toArray"])(this.source.getValue(animated));
-      return this.calc.apply(this, Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(args));
+      return this.calc.apply(this, Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(args));
     }
   }, {
     key: "to",
@@ -3702,7 +3702,7 @@ var AnimatedInterpolation = /*#__PURE__*/function (_Animated2) {
       this.payload = void 0;
 
       if (_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["is"].arr(this.source)) {
-        var source = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(this.source);
+        var source = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(this.source);
 
         Object(_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["each"])(source, function (val, index) {
           if (val === prev) source[index] = next;
@@ -3748,20 +3748,20 @@ var interpolate = function interpolate() {
 
 
 var AnimatedValue = /*#__PURE__*/function (_Animated3) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedValue, _Animated3);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedValue, _Animated3);
 
-  var _super4 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedValue);
+  var _super4 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedValue);
 
   function AnimatedValue(value) {
     var _this3;
 
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedValue);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedValue);
 
     _this3 = _super4.call(this);
     _this3.views = new Set();
     _this3.done = false;
     _this3.value = value;
-    _this3.payload = new Set([Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(_this3)]);
+    _this3.payload = new Set([Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(_this3)]);
 
     if (_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["is"].num(value)) {
       _this3.startPosition = value;
@@ -3771,7 +3771,7 @@ var AnimatedValue = /*#__PURE__*/function (_Animated3) {
     return _this3;
   }
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedValue, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedValue, [{
     key: "getValue",
     value: function getValue() {
       return this.value;
@@ -3866,17 +3866,17 @@ function collectViews(node, views) {
 
 
 var AnimatedArray = /*#__PURE__*/function (_AnimatedObject2) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedArray, _AnimatedObject2);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedArray, _AnimatedObject2);
 
-  var _super5 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedArray);
+  var _super5 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedArray);
 
   function AnimatedArray(source) {
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedArray);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedArray);
 
     return _super5.call(this, source);
   }
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedArray, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedArray, [{
     key: "getValue",
     value: function getValue(animated) {
       return this.source.map(function (node) {
@@ -3918,7 +3918,7 @@ var AnimatedArray = /*#__PURE__*/function (_AnimatedObject2) {
   }, {
     key: "updatePayload",
     value: function updatePayload(prev, next) {
-      var source = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(this.source);
+      var source = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(this.source);
 
       Object(_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["each"])(source, function (val, index) {
         if (val === prev) source[index] = next;
@@ -3932,14 +3932,14 @@ var AnimatedArray = /*#__PURE__*/function (_AnimatedObject2) {
 }(AnimatedObject);
 
 var AnimatedProps = /*#__PURE__*/function (_AnimatedObject3) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedProps, _AnimatedObject3);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedProps, _AnimatedObject3);
 
-  var _super6 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedProps);
+  var _super6 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedProps);
 
   function AnimatedProps(props, update) {
     var _this4;
 
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedProps);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedProps);
 
     _this4 = _super6.call(this, props.style && _react_spring_shared_globals__WEBPACK_IMPORTED_MODULE_8__["createAnimatedStyle"] ? Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_7__[/* default */ "a"])({}, props, {
       style: Object(_react_spring_shared_globals__WEBPACK_IMPORTED_MODULE_8__["createAnimatedStyle"])(props.style)
@@ -4050,12 +4050,12 @@ var getDisplayName = function getDisplayName(arg) {
 /* unused harmony export removeChild */
 /* unused harmony export toPayload */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return withAnimated; });
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(23);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(14);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(11);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(10);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(23);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(14);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(11);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(10);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(5);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(8);
 /* harmony import */ var _react_spring_shared__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(1);
 /* harmony import */ var _react_spring_shared__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__);
 /* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(4);
@@ -4090,7 +4090,7 @@ var isAnimated = function isAnimated(val) {
 
 var Animated = /*#__PURE__*/function () {
   function Animated() {
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, Animated);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, Animated);
 
     this[_a] = true;
     this.children = new Set();
@@ -4098,7 +4098,7 @@ var Animated = /*#__PURE__*/function () {
   /** Returns the set of `AnimatedValue` nodes contained by this node. */
 
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(Animated, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(Animated, [{
     key: "getPayload",
     value: function getPayload() {
       return this.payload;
@@ -4130,14 +4130,14 @@ var Animated = /*#__PURE__*/function () {
 _a = animatedTag;
 
 var AnimatedObject = /*#__PURE__*/function (_Animated) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedObject, _Animated);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedObject, _Animated);
 
-  var _super = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedObject);
+  var _super = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedObject);
 
   function AnimatedObject(source) {
     var _this;
 
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedObject);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedObject);
 
     _this = _super.call(this);
     _this.source = source;
@@ -4145,7 +4145,7 @@ var AnimatedObject = /*#__PURE__*/function (_Animated) {
     return _this;
   }
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedObject, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedObject, [{
     key: "getValue",
     value: function getValue(animated) {
       var obj = {};
@@ -4207,12 +4207,12 @@ function removeChild(parent) {
 }
 
 var AnimatedStyle = /*#__PURE__*/function (_AnimatedObject) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedStyle, _AnimatedObject);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedStyle, _AnimatedObject);
 
-  var _super2 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedStyle);
+  var _super2 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedStyle);
 
   function AnimatedStyle(style) {
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedStyle);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedStyle);
 
     if (style === void 0) {
       style = {};
@@ -4227,28 +4227,28 @@ var AnimatedStyle = /*#__PURE__*/function (_AnimatedObject) {
 }(AnimatedObject);
 
 var AnimatedInterpolation = /*#__PURE__*/function (_Animated2) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedInterpolation, _Animated2);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedInterpolation, _Animated2);
 
-  var _super3 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedInterpolation);
+  var _super3 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedInterpolation);
 
   function AnimatedInterpolation(source, args) {
     var _this2;
 
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedInterpolation);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedInterpolation);
 
     _this2 = _super3.call(this);
     _this2.source = source;
-    _this2.calc = _react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["createInterpolator"].apply(void 0, Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(args));
+    _this2.calc = _react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["createInterpolator"].apply(void 0, Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(args));
     return _this2;
   }
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedInterpolation, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedInterpolation, [{
     key: "getValue",
     value: function getValue(animated) {
       var args = _react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["is"].arr(this.source) ? this.source.map(function (node) {
         return node.getValue(animated);
       }) : Object(_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["toArray"])(this.source.getValue(animated));
-      return this.calc.apply(this, Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(args));
+      return this.calc.apply(this, Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(args));
     }
   }, {
     key: "to",
@@ -4276,7 +4276,7 @@ var AnimatedInterpolation = /*#__PURE__*/function (_Animated2) {
       this.payload = void 0;
 
       if (_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["is"].arr(this.source)) {
-        var source = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(this.source);
+        var source = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(this.source);
 
         Object(_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["each"])(source, function (val, index) {
           if (val === prev) source[index] = next;
@@ -4322,20 +4322,20 @@ var interpolate = function interpolate() {
 
 
 var AnimatedValue = /*#__PURE__*/function (_Animated3) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedValue, _Animated3);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedValue, _Animated3);
 
-  var _super4 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedValue);
+  var _super4 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedValue);
 
   function AnimatedValue(value) {
     var _this3;
 
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedValue);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedValue);
 
     _this3 = _super4.call(this);
     _this3.views = new Set();
     _this3.done = false;
     _this3.value = value;
-    _this3.payload = new Set([Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(_this3)]);
+    _this3.payload = new Set([Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_assertThisInitialized__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(_this3)]);
 
     if (_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["is"].num(value)) {
       _this3.startPosition = value;
@@ -4345,7 +4345,7 @@ var AnimatedValue = /*#__PURE__*/function (_Animated3) {
     return _this3;
   }
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedValue, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedValue, [{
     key: "getValue",
     value: function getValue() {
       return this.value;
@@ -4440,17 +4440,17 @@ function collectViews(node, views) {
 
 
 var AnimatedArray = /*#__PURE__*/function (_AnimatedObject2) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedArray, _AnimatedObject2);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedArray, _AnimatedObject2);
 
-  var _super5 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedArray);
+  var _super5 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedArray);
 
   function AnimatedArray(source) {
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedArray);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedArray);
 
     return _super5.call(this, source);
   }
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedArray, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_5__[/* default */ "a"])(AnimatedArray, [{
     key: "getValue",
     value: function getValue(animated) {
       return this.source.map(function (node) {
@@ -4492,7 +4492,7 @@ var AnimatedArray = /*#__PURE__*/function (_AnimatedObject2) {
   }, {
     key: "updatePayload",
     value: function updatePayload(prev, next) {
-      var source = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(this.source);
+      var source = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(this.source);
 
       Object(_react_spring_shared__WEBPACK_IMPORTED_MODULE_6__["each"])(source, function (val, index) {
         if (val === prev) source[index] = next;
@@ -4506,14 +4506,14 @@ var AnimatedArray = /*#__PURE__*/function (_AnimatedObject2) {
 }(AnimatedObject);
 
 var AnimatedProps = /*#__PURE__*/function (_AnimatedObject3) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedProps, _AnimatedObject3);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedProps, _AnimatedObject3);
 
-  var _super6 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedProps);
+  var _super6 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(AnimatedProps);
 
   function AnimatedProps(props, update) {
     var _this4;
 
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedProps);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(this, AnimatedProps);
 
     _this4 = _super6.call(this, props.style && _react_spring_shared_globals__WEBPACK_IMPORTED_MODULE_8__["createAnimatedStyle"] ? Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_7__[/* default */ "a"])({}, props, {
       style: Object(_react_spring_shared_globals__WEBPACK_IMPORTED_MODULE_8__["createAnimatedStyle"])(props.style)
@@ -4667,7 +4667,7 @@ var arrayWithHoles = __webpack_require__(115);
 
 var iterableToArrayLimit = __webpack_require__(116);
 
-var unsupportedIterableToArray = __webpack_require__(59);
+var unsupportedIterableToArray = __webpack_require__(58);
 
 var nonIterableRest = __webpack_require__(117);
 
@@ -4861,7 +4861,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var createInterpolator_1 = __webpack_require__(58);
+var createInterpolator_1 = __webpack_require__(57);
 
 var colorToRgba_1 = __webpack_require__(112);
 
@@ -7512,9 +7512,9 @@ if (true) {
 "use strict";
 /* unused harmony export a */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return animated; });
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(11);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(10);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(5);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(11);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(10);
 /* harmony import */ var _babel_runtime_helpers_esm_objectWithoutPropertiesLoose__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(7);
 /* harmony import */ var _react_spring_core__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(1);
 /* harmony import */ var _react_spring_core__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_react_spring_core__WEBPACK_IMPORTED_MODULE_4__);
@@ -7721,12 +7721,12 @@ var isTransformIdentity = function isTransformIdentity(key, styleValue) {
 
 
 var AnimatedStyle = /*#__PURE__*/function (_AnimatedObject) {
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(AnimatedStyle, _AnimatedObject);
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(AnimatedStyle, _AnimatedObject);
 
-  var _super = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedStyle);
+  var _super = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(AnimatedStyle);
 
   function AnimatedStyle(_ref) {
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(this, AnimatedStyle);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(this, AnimatedStyle);
 
     if (_ref === void 0) {
       _ref = {};
@@ -8276,11 +8276,11 @@ process.umask = function () {
 /* unused harmony export useSprings */
 /* unused harmony export useTrail */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return useTransition; });
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(17);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(21);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(14);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(17);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(21);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(14);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(0);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4);
@@ -8355,7 +8355,7 @@ function useChain(refs, timeSteps, timeFrame) {
             controllers.forEach(function (ctrl, i) {
               var _ctrl$queue;
 
-              return (_ctrl$queue = ctrl.queue).push.apply(_ctrl$queue, Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(updates[i]));
+              return (_ctrl$queue = ctrl.queue).push.apply(_ctrl$queue, Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(updates[i]));
             });
             return start();
           });
@@ -8445,8 +8445,8 @@ function interpolateTo(props) {
 
 function reconcileDeleted(deleted, current) {
   // Copy as we will be mutating the arrays
-  deleted = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(deleted);
-  current = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(current); // Used to detect deadlock (when a pass finds 0 siblings)
+  deleted = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(deleted);
+  current = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(current); // Used to detect deadlock (when a pass finds 0 siblings)
 
   var failedTries = 0; // Track where the current pass start/ends
 
@@ -8526,7 +8526,7 @@ var nextId = 1;
 
 var Controller = /*#__PURE__*/function () {
   function Controller(props) {
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(this, Controller);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(this, Controller);
 
     this.id = nextId++;
     this.idle = true;
@@ -8553,7 +8553,7 @@ var Controller = /*#__PURE__*/function () {
    */
 
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(Controller, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(Controller, [{
     key: "update",
     value: function update(propsArg) {
       if (!propsArg || this.destroyed) return this;
@@ -8571,8 +8571,8 @@ var Controller = /*#__PURE__*/function () {
 
         for (var key in props.to) {
           this.queue.push(Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_6__[/* default */ "a"])({}, props, {
-            to: Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])({}, key, props.to[key]),
-            from: key in from ? Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])({}, key, from[key]) : void 0,
+            to: Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])({}, key, props.to[key]),
+            from: key in from ? Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])({}, key, from[key]) : void 0,
             delay: Math.max(0, Math.round(props.delay(key)))
           }));
         }
@@ -8611,7 +8611,7 @@ var Controller = /*#__PURE__*/function () {
 
 
       if (keys.length) {
-        var _iterator = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(keys),
+        var _iterator = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(keys),
             _step;
 
         try {
@@ -8691,7 +8691,7 @@ var Controller = /*#__PURE__*/function () {
       if (id !== this.id) return;
 
       if (changes && changes.length) {
-        var _iterator2 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(changes),
+        var _iterator2 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(changes),
             _step2;
 
         try {
@@ -9076,7 +9076,7 @@ var Controller = /*#__PURE__*/function () {
             return keys.indexOf(key) >= 0;
           };
 
-          this.stop.apply(this, Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(keys));
+          this.stop.apply(this, Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(keys));
         }
       } // Merge `from` values with `to` values
 
@@ -9760,7 +9760,7 @@ function cleanUp(_ref7, filterKey) {
   var state = _ref7.current;
   var deleted = state.deleted;
 
-  var _iterator3 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(deleted),
+  var _iterator3 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(deleted),
       _step3;
 
   try {
@@ -9972,7 +9972,7 @@ var FrameLoop = /*#__PURE__*/function () {
   function FrameLoop(_temp) {
     var _this7 = this;
 
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(this, FrameLoop);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(this, FrameLoop);
 
     var _ref = _temp === void 0 ? {} : _temp,
         update = _ref.update,
@@ -10019,7 +10019,7 @@ var FrameLoop = /*#__PURE__*/function () {
 
         var changes = ctrl.props.onFrame ? [] : null;
 
-        var _iterator4 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(ctrl.configs),
+        var _iterator4 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(ctrl.configs),
             _step4;
 
         try {
@@ -10055,7 +10055,7 @@ var FrameLoop = /*#__PURE__*/function () {
     };
   }
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(FrameLoop, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(FrameLoop, [{
     key: "start",
     value: function start(ctrl) {
       this.controllers.set(ctrl.id, ctrl);
@@ -10229,11 +10229,11 @@ var config = {
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return useSprings; });
 /* unused harmony export useTrail */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return useTransition; });
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(17);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(21);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8);
-/* harmony import */ var _Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(14);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(17);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(21);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(8);
+/* harmony import */ var _Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(14);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(0);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var _babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(4);
@@ -10308,7 +10308,7 @@ function useChain(refs, timeSteps, timeFrame) {
             controllers.forEach(function (ctrl, i) {
               var _ctrl$queue;
 
-              return (_ctrl$queue = ctrl.queue).push.apply(_ctrl$queue, Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(updates[i]));
+              return (_ctrl$queue = ctrl.queue).push.apply(_ctrl$queue, Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(updates[i]));
             });
             return start();
           });
@@ -10398,8 +10398,8 @@ function interpolateTo(props) {
 
 function reconcileDeleted(deleted, current) {
   // Copy as we will be mutating the arrays
-  deleted = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(deleted);
-  current = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(current); // Used to detect deadlock (when a pass finds 0 siblings)
+  deleted = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(deleted);
+  current = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(current); // Used to detect deadlock (when a pass finds 0 siblings)
 
   var failedTries = 0; // Track where the current pass start/ends
 
@@ -10479,7 +10479,7 @@ var nextId = 1;
 
 var Controller = /*#__PURE__*/function () {
   function Controller(props) {
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(this, Controller);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(this, Controller);
 
     this.id = nextId++;
     this.idle = true;
@@ -10506,7 +10506,7 @@ var Controller = /*#__PURE__*/function () {
    */
 
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(Controller, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(Controller, [{
     key: "update",
     value: function update(propsArg) {
       if (!propsArg || this.destroyed) return this;
@@ -10524,8 +10524,8 @@ var Controller = /*#__PURE__*/function () {
 
         for (var key in props.to) {
           this.queue.push(Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_6__[/* default */ "a"])({}, props, {
-            to: Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])({}, key, props.to[key]),
-            from: key in from ? Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])({}, key, from[key]) : void 0,
+            to: Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])({}, key, props.to[key]),
+            from: key in from ? Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_defineProperty__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])({}, key, from[key]) : void 0,
             delay: Math.max(0, Math.round(props.delay(key)))
           }));
         }
@@ -10564,7 +10564,7 @@ var Controller = /*#__PURE__*/function () {
 
 
       if (keys.length) {
-        var _iterator = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(keys),
+        var _iterator = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(keys),
             _step;
 
         try {
@@ -10644,7 +10644,7 @@ var Controller = /*#__PURE__*/function () {
       if (id !== this.id) return;
 
       if (changes && changes.length) {
-        var _iterator2 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(changes),
+        var _iterator2 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(changes),
             _step2;
 
         try {
@@ -11029,7 +11029,7 @@ var Controller = /*#__PURE__*/function () {
             return keys.indexOf(key) >= 0;
           };
 
-          this.stop.apply(this, Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(keys));
+          this.stop.apply(this, Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_4__[/* default */ "a"])(keys));
         }
       } // Merge `from` values with `to` values
 
@@ -11713,7 +11713,7 @@ function cleanUp(_ref7, filterKey) {
   var state = _ref7.current;
   var deleted = state.deleted;
 
-  var _iterator3 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(deleted),
+  var _iterator3 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(deleted),
       _step3;
 
   try {
@@ -11925,7 +11925,7 @@ var FrameLoop = /*#__PURE__*/function () {
   function FrameLoop(_temp) {
     var _this7 = this;
 
-    Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(this, FrameLoop);
+    Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(this, FrameLoop);
 
     var _ref = _temp === void 0 ? {} : _temp,
         update = _ref.update,
@@ -11972,7 +11972,7 @@ var FrameLoop = /*#__PURE__*/function () {
 
         var changes = ctrl.props.onFrame ? [] : null;
 
-        var _iterator4 = Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(ctrl.configs),
+        var _iterator4 = Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createForOfIteratorHelper__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(ctrl.configs),
             _step4;
 
         try {
@@ -12008,7 +12008,7 @@ var FrameLoop = /*#__PURE__*/function () {
     };
   }
 
-  Object(_Users_anton_Desktop_Lux_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(FrameLoop, [{
+  Object(_Users_anton_Desktop_Luxury_academy_luxury_academy_node_modules_babel_preset_react_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(FrameLoop, [{
     key: "start",
     value: function start(ctrl) {
       this.controllers.set(ctrl.id, ctrl);
@@ -13301,179 +13301,6 @@ module.exports = _assertThisInitialized;
 
 /***/ }),
 /* 46 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* unused harmony export DEFAULT_IGNORE_CLASS */
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(0);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-
-
-function _slicedToArray(e, r) {
-  return _arrayWithHoles(e) || _iterableToArrayLimit(e, r) || _unsupportedIterableToArray(e, r) || _nonIterableRest();
-}
-
-function _toConsumableArray(e) {
-  return _arrayWithoutHoles(e) || _iterableToArray(e) || _unsupportedIterableToArray(e) || _nonIterableSpread();
-}
-
-function _arrayWithoutHoles(e) {
-  if (Array.isArray(e)) return _arrayLikeToArray(e);
-}
-
-function _arrayWithHoles(e) {
-  if (Array.isArray(e)) return e;
-}
-
-function _iterableToArray(e) {
-  if ("undefined" != typeof Symbol && Symbol.iterator in Object(e)) return Array.from(e);
-}
-
-function _iterableToArrayLimit(e, r) {
-  if ("undefined" != typeof Symbol && Symbol.iterator in Object(e)) {
-    var t = [],
-        n = !0,
-        o = !1,
-        a = void 0;
-
-    try {
-      for (var i, u = e[Symbol.iterator](); !(n = (i = u.next()).done) && (t.push(i.value), !r || t.length !== r); n = !0) {
-        ;
-      }
-    } catch (e) {
-      o = !0, a = e;
-    } finally {
-      try {
-        n || null == u.return || u.return();
-      } finally {
-        if (o) throw a;
-      }
-    }
-
-    return t;
-  }
-}
-
-function _unsupportedIterableToArray(e, r) {
-  if (e) {
-    if ("string" == typeof e) return _arrayLikeToArray(e, r);
-    var t = Object.prototype.toString.call(e).slice(8, -1);
-    return "Object" === t && e.constructor && (t = e.constructor.name), "Map" === t || "Set" === t ? Array.from(e) : "Arguments" === t || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(t) ? _arrayLikeToArray(e, r) : void 0;
-  }
-}
-
-function _arrayLikeToArray(e, r) {
-  (null == r || r > e.length) && (r = e.length);
-
-  for (var t = 0, n = new Array(r); t < r; t++) {
-    n[t] = e[t];
-  }
-
-  return n;
-}
-
-function _nonIterableSpread() {
-  throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
-}
-
-function _nonIterableRest() {
-  throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
-}
-
-var canUsePassiveEvents = function canUsePassiveEvents() {
-  if ("undefined" == typeof window || "function" != typeof window.addEventListener) return !1;
-
-  var e = !1,
-      r = Object.defineProperty({}, "passive", {
-    get: function get() {
-      e = !0;
-    }
-  }),
-      t = function t() {
-    return null;
-  };
-
-  return window.addEventListener("test", t, r), window.removeEventListener("test", t, r), e;
-},
-    DEFAULT_IGNORE_CLASS = "ignore-onclickoutside",
-    hasIgnoreClass = function hasIgnoreClass(e, r) {
-  for (var t = e.target; t;) {
-    var n;
-    if (null === (n = t.classList) || void 0 === n ? void 0 : n.contains(r)) return !0;
-    t = t.parentElement;
-  }
-
-  return !1;
-},
-    clickedOnScrollbar = function clickedOnScrollbar(e) {
-  return document.documentElement.clientWidth <= e.clientX || document.documentElement.clientHeight <= e.clientY;
-},
-    getEventOptions = function getEventOptions(e) {
-  return !(!e.includes("touch") || !canUsePassiveEvents()) && {
-    passive: !0
-  };
-},
-    useOnclickOutside = function useOnclickOutside(e) {
-  var r = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : {},
-      t = r.refs,
-      n = r.disabled,
-      o = void 0 !== n && n,
-      a = r.eventTypes,
-      i = void 0 === a ? ["mousedown", "touchstart"] : a,
-      u = r.excludeScrollbar,
-      c = void 0 !== u && u,
-      l = r.ignoreClass,
-      s = void 0 === l ? DEFAULT_IGNORE_CLASS : l,
-      f = Object(react__WEBPACK_IMPORTED_MODULE_0__["useRef"])(e),
-      d = Object(react__WEBPACK_IMPORTED_MODULE_0__["useState"])([]),
-      y = _slicedToArray(d, 2),
-      v = y[0],
-      b = y[1];
-
-  Object(react__WEBPACK_IMPORTED_MODULE_0__["useEffect"])(function () {
-    f.current = e;
-  }, [e]);
-  var m = Object(react__WEBPACK_IMPORTED_MODULE_0__["useCallback"])(function (e) {
-    b(function (r) {
-      return [].concat(_toConsumableArray(r), [{
-        current: e
-      }]);
-    });
-  }, []);
-  return Object(react__WEBPACK_IMPORTED_MODULE_0__["useEffect"])(function () {
-    if ((null == t ? void 0 : t.length) || v.length) {
-      var e = function e(_e) {
-        if (!hasIgnoreClass(_e, s)) {
-          var r = [];
-          (t || v).forEach(function (e) {
-            var t = e.current;
-            t && r.push(t);
-          }), c && clickedOnScrollbar(_e) || r.length && r.every(function (r) {
-            return !r.contains(_e.target);
-          }) && f.current(_e);
-        }
-      },
-          r = function r() {
-        i.forEach(function (r) {
-          document.removeEventListener(r, e, getEventOptions(r));
-        });
-      };
-
-      if (!o) return i.forEach(function (r) {
-        document.addEventListener(r, e, getEventOptions(r));
-      }), function () {
-        r();
-      };
-      r();
-    }
-  }, [v, s, c, o, JSON.stringify(i)]), m;
-};
-
-/* harmony default export */ __webpack_exports__["a"] = (useOnclickOutside);
-
-
-/***/ }),
-/* 47 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -13584,7 +13411,7 @@ function hoistNonReactStatics(targetComponent, sourceComponent, blacklist) {
 module.exports = hoistNonReactStatics;
 
 /***/ }),
-/* 48 */
+/* 47 */
 /***/ (function(module, exports) {
 
 function _getPrototypeOf(o) {
@@ -13597,7 +13424,7 @@ function _getPrototypeOf(o) {
 module.exports = _getPrototypeOf;
 
 /***/ }),
-/* 49 */
+/* 48 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19642,7 +19469,7 @@ var react_pose_es_PoseGroup = function (_super) {
 
 
 /***/ }),
-/* 50 */
+/* 49 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -19673,7 +19500,7 @@ var index = memoize_browser_esm(function (prop) {
 /* harmony default export */ var is_prop_valid_browser_esm = __webpack_exports__["a"] = (index);
 
 /***/ }),
-/* 51 */
+/* 50 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -19774,7 +19601,7 @@ module.exports = shouldUseNative() ? Object.assign : function (target, source) {
 };
 
 /***/ }),
-/* 52 */
+/* 51 */
 /***/ (function(module, exports) {
 
 /**
@@ -19826,6 +19653,12 @@ module.exports = {
 };
 
 /***/ }),
+/* 52 */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+
+/***/ }),
 /* 53 */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19833,12 +19666,6 @@ module.exports = {
 
 /***/ }),
 /* 54 */
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-
-/***/ }),
-/* 55 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -19996,11 +19823,11 @@ module.exports = {
 };
 
 /***/ }),
-/* 56 */
+/* 55 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* MIT license */
-var cssKeywords = __webpack_require__(55); // NOTE: conversions should only return primitive values (i.e. arrays, or
+var cssKeywords = __webpack_require__(54); // NOTE: conversions should only return primitive values (i.e. arrays, or
 //       values that give correct `typeof` results).
 //       do not use box values types (i.e. Number(), String(), etc.)
 
@@ -20897,7 +20724,7 @@ convert.rgb.gray = function (rgb) {
 };
 
 /***/ }),
-/* 57 */
+/* 56 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -20966,7 +20793,7 @@ function usePrev(value) {
 exports.usePrev = usePrev;
 
 /***/ }),
-/* 58 */
+/* 57 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -20988,7 +20815,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var G = __importStar(__webpack_require__(3));
 
-var helpers_1 = __webpack_require__(57);
+var helpers_1 = __webpack_require__(56);
 
 exports.createInterpolator = function (range, output, extrapolate) {
   if (helpers_1.is.fun(range)) {
@@ -21054,10 +20881,10 @@ function findRange(input, inputRange) {
 }
 
 /***/ }),
-/* 59 */
+/* 58 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var arrayLikeToArray = __webpack_require__(60);
+var arrayLikeToArray = __webpack_require__(59);
 
 function _unsupportedIterableToArray(o, minLen) {
   if (!o) return;
@@ -21071,7 +20898,7 @@ function _unsupportedIterableToArray(o, minLen) {
 module.exports = _unsupportedIterableToArray;
 
 /***/ }),
-/* 60 */
+/* 59 */
 /***/ (function(module, exports) {
 
 function _arrayLikeToArray(arr, len) {
@@ -21087,7 +20914,7 @@ function _arrayLikeToArray(arr, len) {
 module.exports = _arrayLikeToArray;
 
 /***/ }),
-/* 61 */
+/* 60 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21113,7 +20940,7 @@ exports.default = _react2.default.createContext || _implementation2.default;
 module.exports = exports['default'];
 
 /***/ }),
-/* 62 */
+/* 61 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -21243,6 +21070,179 @@ function polyfill(Component) {
   return Component;
 }
 
+
+
+/***/ }),
+/* 62 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* unused harmony export DEFAULT_IGNORE_CLASS */
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(0);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+
+function _slicedToArray(e, r) {
+  return _arrayWithHoles(e) || _iterableToArrayLimit(e, r) || _unsupportedIterableToArray(e, r) || _nonIterableRest();
+}
+
+function _toConsumableArray(e) {
+  return _arrayWithoutHoles(e) || _iterableToArray(e) || _unsupportedIterableToArray(e) || _nonIterableSpread();
+}
+
+function _arrayWithoutHoles(e) {
+  if (Array.isArray(e)) return _arrayLikeToArray(e);
+}
+
+function _arrayWithHoles(e) {
+  if (Array.isArray(e)) return e;
+}
+
+function _iterableToArray(e) {
+  if ("undefined" != typeof Symbol && Symbol.iterator in Object(e)) return Array.from(e);
+}
+
+function _iterableToArrayLimit(e, r) {
+  if ("undefined" != typeof Symbol && Symbol.iterator in Object(e)) {
+    var t = [],
+        n = !0,
+        o = !1,
+        a = void 0;
+
+    try {
+      for (var i, u = e[Symbol.iterator](); !(n = (i = u.next()).done) && (t.push(i.value), !r || t.length !== r); n = !0) {
+        ;
+      }
+    } catch (e) {
+      o = !0, a = e;
+    } finally {
+      try {
+        n || null == u.return || u.return();
+      } finally {
+        if (o) throw a;
+      }
+    }
+
+    return t;
+  }
+}
+
+function _unsupportedIterableToArray(e, r) {
+  if (e) {
+    if ("string" == typeof e) return _arrayLikeToArray(e, r);
+    var t = Object.prototype.toString.call(e).slice(8, -1);
+    return "Object" === t && e.constructor && (t = e.constructor.name), "Map" === t || "Set" === t ? Array.from(e) : "Arguments" === t || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(t) ? _arrayLikeToArray(e, r) : void 0;
+  }
+}
+
+function _arrayLikeToArray(e, r) {
+  (null == r || r > e.length) && (r = e.length);
+
+  for (var t = 0, n = new Array(r); t < r; t++) {
+    n[t] = e[t];
+  }
+
+  return n;
+}
+
+function _nonIterableSpread() {
+  throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+
+function _nonIterableRest() {
+  throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+
+var canUsePassiveEvents = function canUsePassiveEvents() {
+  if ("undefined" == typeof window || "function" != typeof window.addEventListener) return !1;
+
+  var e = !1,
+      r = Object.defineProperty({}, "passive", {
+    get: function get() {
+      e = !0;
+    }
+  }),
+      t = function t() {
+    return null;
+  };
+
+  return window.addEventListener("test", t, r), window.removeEventListener("test", t, r), e;
+},
+    DEFAULT_IGNORE_CLASS = "ignore-onclickoutside",
+    hasIgnoreClass = function hasIgnoreClass(e, r) {
+  for (var t = e.target; t;) {
+    var n;
+    if (null === (n = t.classList) || void 0 === n ? void 0 : n.contains(r)) return !0;
+    t = t.parentElement;
+  }
+
+  return !1;
+},
+    clickedOnScrollbar = function clickedOnScrollbar(e) {
+  return document.documentElement.clientWidth <= e.clientX || document.documentElement.clientHeight <= e.clientY;
+},
+    getEventOptions = function getEventOptions(e) {
+  return !(!e.includes("touch") || !canUsePassiveEvents()) && {
+    passive: !0
+  };
+},
+    useOnclickOutside = function useOnclickOutside(e) {
+  var r = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : {},
+      t = r.refs,
+      n = r.disabled,
+      o = void 0 !== n && n,
+      a = r.eventTypes,
+      i = void 0 === a ? ["mousedown", "touchstart"] : a,
+      u = r.excludeScrollbar,
+      c = void 0 !== u && u,
+      l = r.ignoreClass,
+      s = void 0 === l ? DEFAULT_IGNORE_CLASS : l,
+      f = Object(react__WEBPACK_IMPORTED_MODULE_0__["useRef"])(e),
+      d = Object(react__WEBPACK_IMPORTED_MODULE_0__["useState"])([]),
+      y = _slicedToArray(d, 2),
+      v = y[0],
+      b = y[1];
+
+  Object(react__WEBPACK_IMPORTED_MODULE_0__["useEffect"])(function () {
+    f.current = e;
+  }, [e]);
+  var m = Object(react__WEBPACK_IMPORTED_MODULE_0__["useCallback"])(function (e) {
+    b(function (r) {
+      return [].concat(_toConsumableArray(r), [{
+        current: e
+      }]);
+    });
+  }, []);
+  return Object(react__WEBPACK_IMPORTED_MODULE_0__["useEffect"])(function () {
+    if ((null == t ? void 0 : t.length) || v.length) {
+      var e = function e(_e) {
+        if (!hasIgnoreClass(_e, s)) {
+          var r = [];
+          (t || v).forEach(function (e) {
+            var t = e.current;
+            t && r.push(t);
+          }), c && clickedOnScrollbar(_e) || r.length && r.every(function (r) {
+            return !r.contains(_e.target);
+          }) && f.current(_e);
+        }
+      },
+          r = function r() {
+        i.forEach(function (r) {
+          document.removeEventListener(r, e, getEventOptions(r));
+        });
+      };
+
+      if (!o) return i.forEach(function (r) {
+        document.addEventListener(r, e, getEventOptions(r));
+      }), function () {
+        r();
+      };
+      r();
+    }
+  }, [v, s, c, o, JSON.stringify(i)]), m;
+};
+
+/* harmony default export */ __webpack_exports__["a"] = (useOnclickOutside);
 
 
 /***/ }),
@@ -22336,7 +22336,7 @@ var arrayWithoutHoles = __webpack_require__(118);
 
 var iterableToArray = __webpack_require__(119);
 
-var unsupportedIterableToArray = __webpack_require__(59);
+var unsupportedIterableToArray = __webpack_require__(58);
 
 var nonIterableSpread = __webpack_require__(120);
 
@@ -26177,7 +26177,7 @@ var possibleConstructorReturn = __webpack_require__(71);
 var possibleConstructorReturn_default = /*#__PURE__*/__webpack_require__.n(possibleConstructorReturn);
 
 // EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/getPrototypeOf.js
-var getPrototypeOf = __webpack_require__(48);
+var getPrototypeOf = __webpack_require__(47);
 var getPrototypeOf_default = /*#__PURE__*/__webpack_require__.n(getPrototypeOf);
 
 // EXTERNAL MODULE: ./node_modules/react-dom/index.js
@@ -26873,7 +26873,7 @@ index_es_Y.defaultProps = {
  */
 
 
-var l = __webpack_require__(51),
+var l = __webpack_require__(50),
     n = "function" === typeof Symbol && Symbol.for,
     p = n ? Symbol.for("react.element") : 60103,
     q = n ? Symbol.for("react.portal") : 60106,
@@ -27310,7 +27310,7 @@ exports.version = "16.13.1";
 
 
 var aa = __webpack_require__(0),
-    n = __webpack_require__(51),
+    n = __webpack_require__(50),
     r = __webpack_require__(78);
 
 function u(a) {
@@ -55000,7 +55000,7 @@ module.exports = new MediaQueryDispatch();
 
 var MediaQuery = __webpack_require__(103);
 
-var Util = __webpack_require__(52);
+var Util = __webpack_require__(51);
 
 var each = Util.each;
 var isFunction = Util.isFunction;
@@ -55095,7 +55095,7 @@ module.exports = MediaQueryDispatch;
 
 var QueryHandler = __webpack_require__(104);
 
-var each = __webpack_require__(52).each;
+var each = __webpack_require__(51).each;
 /**
  * Represents a single media query, manages it's state and registered handlers for this query
  *
@@ -55274,7 +55274,7 @@ module.exports = QueryHandler;
 /***/ (function(module, exports, __webpack_require__) {
 
 /* MIT license */
-var colorNames = __webpack_require__(55);
+var colorNames = __webpack_require__(54);
 
 var swizzle = __webpack_require__(107);
 
@@ -55544,7 +55544,7 @@ module.exports = function isArrayish(obj) {
 /* 109 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var conversions = __webpack_require__(56);
+var conversions = __webpack_require__(55);
 
 var route = __webpack_require__(110);
 
@@ -55625,7 +55625,7 @@ module.exports = convert;
 /* 110 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var conversions = __webpack_require__(56);
+var conversions = __webpack_require__(55);
 /*
 	this function routes a model to all other models.
 
@@ -56156,7 +56156,7 @@ module.exports = _nonIterableRest;
 /* 118 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var arrayLikeToArray = __webpack_require__(60);
+var arrayLikeToArray = __webpack_require__(59);
 
 function _arrayWithoutHoles(arr) {
   if (Array.isArray(arr)) return arrayLikeToArray(arr);
@@ -56294,4 +56294,4 @@ exports.UI = UI;
 
 /***/ })
 ]]);
-//# sourceMappingURL=2.e66cfb0d.chunk.js.map
+//# sourceMappingURL=2.19b6e20b.chunk.js.map
