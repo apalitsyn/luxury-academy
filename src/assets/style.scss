@@ -179,12 +179,11 @@ section{
 }
 .btn{
   position: relative;
-  overflow: hidden;
+  // overflow: hidden;
   font-size: 11pt;
   color: $white;
   background: none;
-  border: 2px solid $color;
-  border-radius: 0;
+  border: none;
   padding: 10px 44px;
   -webkit-transition-delay: 0s;
   transition-delay: 0s;
@@ -198,37 +197,55 @@ section{
     content: '';
     width: 100%;
     height: 100%;
-    top: 0;
-    left: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     position: absolute;
     background-image: linear-gradient(to left, $color, $color_more);
     opacity: 0;
     z-index: 1;
     transition: all 0.3s ease;
+    border-radius: 8px;
   }
-  &:hover::before{
-    opacity: 1;
+  &::after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    border: 2px solid $color;
     transition: all 0.3s ease;
+    border-radius: 8px;
   }
   &:hover {
     .shine{
     -webkit-animation: sheen .6s alternate;
     animation: sheen .6s alternate;
-    } 
+    }
+    &::before{
+      opacity: 1;
+      transition: all 0.3s ease;
+    }
+    &::before, &::after {
+      width: calc(100% + 5px);
+      height: calc(100% + 5px);
+    }
   }
 }
-.shine {
-  content: '';
-  position: absolute !important;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: -50px;
-  background: -webkit-linear-gradient(top, transparent, rgba(255,255,255,0.2) 5%, transparent);
-  background: linear-gradient(to bottom, transparent, rgba(255,255,255,0.2) 5%, transparent);
-  -webkit-transform: rotateZ(60deg) translate(-1em, 5.5em);
-  transform: rotateZ(60deg) translate(-1em, 5.5em);
-}
+// .shine {
+//   content: '';
+//   position: absolute !important;
+//   top: 0;
+//   right: 0;
+//   bottom: 0;
+//   left: -50px;
+//   background: -webkit-linear-gradient(top, transparent, rgba(255,255,255,0.2) 5%, transparent);
+//   background: linear-gradient(to bottom, transparent, rgba(255,255,255,0.2) 5%, transparent);
+//   -webkit-transform: rotateZ(60deg) translate(-1em, 5.5em);
+//   transform: rotateZ(60deg) translate(-1em, 5.5em);
+// }
 @-webkit-keyframes sheen {
   0% {
      opacity: 1;
