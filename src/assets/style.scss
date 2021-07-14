@@ -425,6 +425,12 @@ section{
         padding: 0 5px;
         cursor: default;
         vertical-align: middle;
+
+        .btn {
+          &::after {
+            display: none;
+          }
+        }
     }
 
     .logo{
