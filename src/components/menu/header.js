@@ -32,9 +32,9 @@ export default function() {
     // const handleBtnClick = (): void => {
     //   setOpenMenu(!openMenu);
     // };
-    // const handleBtnClick1 = (): void => {
-    //   setOpenMenu1(!openMenu1);
-    // };
+    const handleBtnClick1 = (): void => {
+      setOpenMenu1(!openMenu1);
+    };
     // const closeMenu = (): void => {
     //   setOpenMenu(false);
     // };
