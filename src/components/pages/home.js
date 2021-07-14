@@ -66,8 +66,8 @@ export default () => (
     <section className='container-fluid p-0 black_more'>
         <div className='row'>
 
-          <div className="col-md-6 pr-md-0">
-            <img src="./img/blog.jpg" className="imgslickz" alt="#"/>
+          <div className="col-md-6 pl-md-0">
+            <img src="./img/travel.jpg" className="imgslickz" alt="#"/>
           </div>
 
           <div className="col-md-6 centered p-5">
@@ -109,11 +109,11 @@ export default () => (
           </div>
 
           <div className="col-md-6 pr-md-0">
-            <img src="./img/blog.jpg" className="imgslickz" alt="#"/>
+            <img src="./img/conceirge.jpg" className="imgslickz" alt="#"/>
           </div>
 
-          <div className="col-md-6 pr-md-0">
-            <img src="./img/blog.jpg" className="imgslickz" alt="#"/>
+          <div className="col-md-6 pl-md-0">
+            <img src="./img/events.jpg" className="imgslickz" alt="#"/>
           </div>
 
           <div className="col-md-6 centered p-5">
@@ -155,11 +155,11 @@ export default () => (
           </div>
 
           <div className="col-md-6 pr-md-0">
-            <img src="./img/blog.jpg" className="imgslickz" alt="#"/>
+            <img src="./img/medical.jpg" className="imgslickz" alt="#"/>
           </div>
 
-          <div className="col-md-6 pr-md-0">
-            <img src="./img/blog.jpg" className="imgslickz" alt="#"/>
+          <div className="col-md-6 pl-md-0">
+            <img src="./img/education.jpg" className="imgslickz" alt="#"/>
           </div>
 
           <div className="col-md-6 centered p-5">
@@ -200,12 +200,12 @@ export default () => (
             </div>
           </div>
 
-          <div className="col-md-6 pl-md-0">
-            <img src="./img/blog1.jpg" className="imgslickz" alt="#"/>
+          <div className="col-md-6 pr-md-0">
+            <img src="./img/landshaft.jpg" className="imgslickz" alt="#"/>
           </div>
 
           <div className="col-md-6 pl-md-0">
-            <img src="./img/blog1.jpg" className="imgslickz" alt="#"/>
+            <img src="./img/shopping.jpg" className="imgslickz" alt="#"/>
           </div>
 
           <div className="col-md-6 centered p-5 pb-5">
@@ -246,8 +246,8 @@ export default () => (
             </div>
           </div>
 
-          <div className="col-md-6 pl-md-0">
-            <img src="./img/blog1.jpg" className="imgslickz" alt="#"/>
+          <div className="col-md-6 pr-md-0">
+            <img src="./img/hobby.jpg" className="imgslickz" alt="#"/>
           </div>
 
         </div>
