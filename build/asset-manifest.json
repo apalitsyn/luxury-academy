@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e9684c83.chunk.css",
+    "main.js": "./static/js/main.1b3aea4b.chunk.js",
+    "main.css.map": "./static/css/main.e9684c83.chunk.css.map",
+    "main.js.map": "./static/js/main.1b3aea4b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7252612a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7252612a.js.map",
+    "static/css/2.12f99df3.chunk.css": "./static/css/2.12f99df3.chunk.css",
+    "static/js/2.e66cfb0d.chunk.js": "./static/js/2.e66cfb0d.chunk.js",
+    "static/css/2.12f99df3.chunk.css.map": "./static/css/2.12f99df3.chunk.css.map",
+    "static/js/2.e66cfb0d.chunk.js.map": "./static/js/2.e66cfb0d.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.687cd423f81d3c5f15693604e4936a14.js": "./precache-manifest.687cd423f81d3c5f15693604e4936a14.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/slick-theme.css": "./static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7252612a.js",
+    "static/css/2.12f99df3.chunk.css",
+    "static/js/2.e66cfb0d.chunk.js",
+    "static/css/main.e9684c83.chunk.css",
+    "static/js/main.1b3aea4b.chunk.js"
+  ]
+}
