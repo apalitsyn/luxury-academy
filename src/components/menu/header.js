@@ -138,7 +138,7 @@ export default function() {
                         {openMenu1 && (
                           <div className='item-dropdown'>
                             <div className="dropdown" onClick={closeMenu1}>
-                              <NavLink to="/concierge" onClick={() => btn_icon(!showmenu)}>Concierge</NavLink>
+                              <NavLink to="/concierge" onClick={() => btn_icon(!showmenu)}>Concierges</NavLink>
                               <NavLink to="/events" onClick={() => btn_icon(!showmenu)}>Events</NavLink>
                               <NavLink to="/medical" onClick={() => btn_icon(!showmenu)}>Medical</NavLink>
                               <NavLink to="/education" onClick={() => btn_icon(!showmenu)}>Education</NavLink>
