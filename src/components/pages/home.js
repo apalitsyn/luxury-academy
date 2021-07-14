@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from '@reach/router';
 import Carouselteam from '../components/carouselteam';
 import Bannercontact from '../components/bannercontact';
-import Pricing from '../components/pricing';
+// import Pricing from '../components/pricing';
 import Testimony from '../components/carouseltestimony';
 import Footer from '../components/footer';
 
