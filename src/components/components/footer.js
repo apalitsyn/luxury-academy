@@ -75,7 +75,7 @@ export default () => (
     <div className='subfooter'>
       <div className='row m-10-hor'>
         <div className='col-md-6'>
-          <div className='content'>© Copyrights 2021 <span className='font-weight-bold'>Luxury Academy</span> All rights reserved.</div>
+          <div className='content'>© Copyrights 2021 <span className='font-weight-bold'>Avant Gardiste</span> All rights reserved.</div>
         </div>
       </div>
     </div>
