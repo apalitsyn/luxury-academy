@@ -507,9 +507,10 @@ section{
       position: fixed;
       top: 0;
       width: 100%;
-      background: #1b1b1b;
+      background: black;
       animation: smoothScroll .6s forwards;
       -webkit-animation: smoothScroll .6s forwards;
+      opacity: 0.92;
       }
       @keyframes smoothScroll {
         0% {
